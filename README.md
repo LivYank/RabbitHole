@@ -1,2 +1,2 @@
-# RbbitHole
+# RabbitHole
 CoE - Training repo
